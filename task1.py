@@ -2,4 +2,5 @@
 
 noun = "dog"
 verb = "barked"
-result  = 
+result  = noun + verb
+answer = dog barked
